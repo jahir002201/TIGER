@@ -62,7 +62,7 @@ $after_assoc_contact = mysqli_fetch_assoc($select_contact_result);
                         <div class="main-menu">
                             <nav class="navbar navbar-expand-lg">
                                 <a href="index.php" class="navbar-brand logo-sticky-none"><img src="img/logo/jahir_white.png" alt="Logo"></a>
-                                <a href="index.html" class="navbar-brand s-logo-none"><img src="img/logo/jahir.png" alt="Logo"></a>
+                                <a href="index.php" class="navbar-brand s-logo-none"><img src="img/logo/jahir.png" alt="Logo"></a>
                                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
                                     <span class="navbar-icon"></span>
                                     <span class="navbar-icon"></span>
